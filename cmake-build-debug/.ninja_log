@@ -1,0 +1,12 @@
+# ninja log v5
+1	260	1667981821539893717	CMakeFiles/cubeShadowMap.dir/Users/j10j0/Desktop/openGL_cpp/libs/glad.c.o	44ccc3d9beb5e335
+0	653	1667981821932231644	CMakeFiles/cubeShadowMap.dir/main.cpp.o	c178927b89583921
+654	702	1667981821983379783	cubeShadowMap	80d24c0ee7c8e4bc
+8	564	1667981882274884989	CMakeFiles/cubeShadowMap.dir/main.cpp.o	c178927b89583921
+564	593	1667981882306957018	cubeShadowMap	80d24c0ee7c8e4bc
+6	750	1668001227280928192	CMakeFiles/cubeShadowMap.dir/main.cpp.o	c178927b89583921
+750	794	1668001227329753316	cubeShadowMap	80d24c0ee7c8e4bc
+6	522	1668001552242546150	CMakeFiles/cubeShadowMap.dir/main.cpp.o	c178927b89583921
+522	552	1668001552274238730	cubeShadowMap	80d24c0ee7c8e4bc
+5	550	1668001857834047259	CMakeFiles/cubeShadowMap.dir/main.cpp.o	c178927b89583921
+550	577	1668001857863207286	cubeShadowMap	80d24c0ee7c8e4bc

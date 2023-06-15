@@ -1,0 +1,3 @@
+/Users/j10j0/CLionProjects/cubeShadowMap/cmake-build-debug/CMakeFiles/cubeShadowMap.dir
+/Users/j10j0/CLionProjects/cubeShadowMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/j10j0/CLionProjects/cubeShadowMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
